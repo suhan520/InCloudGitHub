@@ -8,7 +8,7 @@ on:
         description: '扫描类型'
         required: true
         type: choice
-        options:
+        options: 
           - 'auto - 自动搜索AI项目'
           - 'user - 扫描指定用户'
           - 'org - 扫描指定组织'
@@ -24,13 +24,13 @@ on:
         description: '最大扫描仓库数（仅auto模式有效）'
         required: false
         type: number
-        default: 50
+        default: 20
       
       create_issue:
         description: '发现问题时是否创建Issue'
         required: false
         type: boolean
-        default: true
+        default: false
 
 # 添加权限设置
 permissions:
