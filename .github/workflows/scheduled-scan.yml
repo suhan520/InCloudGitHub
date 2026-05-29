@@ -4,13 +4,14 @@ name: AI API Key Scanner - Scheduled Scan
 on:
   schedule:
     # 每天 UTC 02:00 (北京时间 10:00)
-    - cron: '0 2 * * *'
+    - cron: '0 10 * * 4'
     
     # 也可以选择其他时间，取消注释即可：
     # - cron: '0 */6 * * *'    # 每6小时一次
     # - cron: '0 0,12 * * *'   # 每天 00:00 和 12:00
     # - cron: '0 2 * * 1'      # 每周一 02:00
     # - cron: '0 2 1 * *'      # 每月1号 02:00
+    # - cron: '0 2 * * *'      # 北京时间 10:00
   
   # 也支持手动触发
   workflow_dispatch:
@@ -23,7 +24,7 @@ concurrency:
 # 添加权限设置
 permissions:
   contents: write  # 允许提交代码
-  issues: write    # 允许创建和更新 Issue
+  # issues: write    # 允许创建和更新 Issue
 
 jobs:
   scheduled-scan:
@@ -69,6 +70,19 @@ jobs:
           else
             echo "scan_status=failed" >> $GITHUB_OUTPUT
           fi
+
+      - name: 🚨 扫描失败通知
+        if: steps.scan.outputs.scan_status == 'failed'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `❌ [${new Date().toISOString().split('T')[0]}] 扫描任务执行失败`,
+              body: `扫描脚本异常退出，请检查 Actions 日志和 Token 是否过期。`,
+              labels: ['scan-failed']
+            });
       
       - name: 📊 分析扫描结果
         id: analyze
@@ -143,8 +157,10 @@ jobs:
       - name: 💾 提交扫描历史和报告
         if: always()
         run: |
-          git config user.name "gaocaipeng"
-          git config user.email "2540225402@qq.com"
+          # git config user.name "gaocaipeng"
+          # git config user.email "2540225402@qq.com"
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
           
           # 添加扫描历史
           git add scan_history/
@@ -183,9 +199,13 @@ jobs:
             git push
             echo "✅ 已提交: 历史文件 $HISTORY_CHANGED 个, 报告文件 $REPORTS_CHANGED 个"
           fi
+
       
       - name: 🚨 创建告警Issue（发现问题时）
-        if: steps.analyze.outputs.needs_alert == 'true'
+      
+        if: false  # 已禁用：不再自动创建 Issue
+        
+        # if: steps.analyze.outputs.needs_alert == 'true'
         uses: actions/github-script@v7
         env:
           TOTAL_FINDINGS: ${{ steps.analyze.outputs.total_findings }}
@@ -194,7 +214,12 @@ jobs:
         with:
           script: |
             const fs = require('fs');
-            const reportFiles = fs.readdirSync('scan_reports');
+
+            # 如果目录里有多个 .txt、.json、临时文件，可能选错
+            const reportFiles = fs.readdirSync('scan_reports')
+              .filter(f => f.endsWith('.txt'))
+              .sort()
+              .reverse();
             
             if (reportFiles.length > 0) {
               const reportPath = `scan_reports/${reportFiles[0]}`;
