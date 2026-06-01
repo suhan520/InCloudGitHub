@@ -193,9 +193,9 @@ class ReportGenerator:
                 pattern_desc = self._explain_pattern(finding['pattern'])
                 f.write(f"  │ 🎯 匹配规则: {pattern_desc}\n")
             
-            # 代码上下文
+            # 代码上下文，截取前 100 个字符
             if finding.get('line_content'):
-                line_content = finding['line_content'].strip()[:80]
+                line_content = finding['line_content'].strip()[:100]
                 f.write(f"  │\n")
                 f.write(f"  │ 💻 代码片段:\n")
                 f.write(f"  │    {line_content}\n")

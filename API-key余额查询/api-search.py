@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "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"  # 替换为你的密钥
+API_KEY = "sk-proj-6lLgO3K2g28B60Z85fZXT3BlbkFJArdOVFejkIZfPHFoj4KM"  # 替换为你的密钥
 
 headers = {
     "Authorization": f"Bearer {API_KEY}",
