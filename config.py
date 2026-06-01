@@ -130,3 +130,7 @@ EXCLUDED_DIRS = [
 # GitHub API速率限制
 MAX_REPOS_PER_SEARCH = 100
 SEARCH_DELAY_SECONDS = 2
+
+# 仓库更新时间过滤
+# 只搜索最近指定天数内有更新的仓库（忽略长时间不维护的库）
+MIN_DAYS_SINCE_UPDATE = int(os.getenv('MIN_DAYS_SINCE_UPDATE', 665))

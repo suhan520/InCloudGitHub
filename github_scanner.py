@@ -3,10 +3,10 @@ GitHub仓库扫描模块
 """
 import time
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 from typing import List, Dict, Optional
 from github import Github, GithubException
-from config import GITHUB_TOKEN, AI_SEARCH_KEYWORDS, MAX_REPOS_PER_SEARCH, SEARCH_DELAY_SECONDS
+from config import GITHUB_TOKEN, AI_SEARCH_KEYWORDS, MAX_REPOS_PER_SEARCH, SEARCH_DELAY_SECONDS, MIN_DAYS_SINCE_UPDATE
 
 
 class GitHubScanner:
@@ -34,18 +34,52 @@ class GitHubScanner:
     def get_rate_limit_info(self) -> Dict:
         """获取API速率限制信息"""
         rate_limit = self.github.get_rate_limit()
-        core = rate_limit.core
-        
+
+        # 兼容不同版本的 PyGithub 返回对象
+        core = None
+        if hasattr(rate_limit, 'core'):
+            core = rate_limit.core
+        elif hasattr(rate_limit, 'resources'):
+            resources = getattr(rate_limit, 'resources')
+            if isinstance(resources, dict):
+                core = resources.get('core')
+            elif hasattr(resources, 'core'):
+                core = resources.core
+        elif hasattr(rate_limit, 'rate'):
+            core = rate_limit.rate
+        elif hasattr(rate_limit, 'raw_data'):
+            raw_data = getattr(rate_limit, 'raw_data')
+            if isinstance(raw_data, dict):
+                resources = raw_data.get('resources', {})
+                core = resources.get('core') if isinstance(resources, dict) else None
+
+        if core is None:
+            raise RuntimeError(
+                f"无法读取 GitHub API 速率限制，返回对象类型: {type(rate_limit)}"
+            )
+
+        remaining = getattr(core, 'remaining', None)
+        limit = getattr(core, 'limit', None)
+        reset = getattr(core, 'reset', None)
+
+        if isinstance(core, dict):
+            remaining = remaining if remaining is not None else core.get('remaining')
+            limit = limit if limit is not None else core.get('limit')
+            reset = reset if reset is not None else core.get('reset')
+
+        if isinstance(reset, (int, float)):
+            reset = datetime.fromtimestamp(reset)
+
         return {
-            'remaining': core.remaining,
-            'limit': core.limit,
-            'reset': core.reset
+            'remaining': remaining,
+            'limit': limit,
+            'reset': reset
         }
     
     def wait_for_rate_limit(self):
         """等待速率限制重置"""
         info = self.get_rate_limit_info()
-        if info['remaining'] < 10:
+        if info['remaining'] is not None and info['remaining'] < 10:
             # info['reset'] 是 datetime 对象，需要和 datetime.now() 比较
             wait_time = (info['reset'] - datetime.now()).total_seconds() + 10
             print(f"⚠️  API速率限制即将耗尽，等待 {wait_time:.0f} 秒...")
@@ -155,6 +189,14 @@ class GitHubScanner:
                         print(f"  ⏭️  跳过已扫描: {repo.full_name}")
                         continue  # 不计数，继续找下一个
                     
+                    # 检查仓库最后更新时间是否在指定时间范围内
+                    if repo.updated_at:
+                        days_since_update = (datetime.now(repo.updated_at.tzinfo) - repo.updated_at).days
+                        if days_since_update > MIN_DAYS_SINCE_UPDATE:
+                            skipped_count += 1
+                            print(f"  ⏭️  跳过长期不维护: {repo.full_name} (最后更新: {days_since_update} 天前)")
+                            continue
+                    
                     # 添加到结果列表
                     all_repos.append({
                         'name': repo.name,
@@ -194,6 +236,10 @@ class GitHubScanner:
         """
         try:
             repo = self.github.get_repo(repo_full_name)
+            if path:
+                print(f"  📁 获取目录: {path}")
+            else:
+                print("  📁 获取根目录")
             contents = repo.get_contents(path)
             
             files = []

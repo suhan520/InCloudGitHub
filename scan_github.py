@@ -26,9 +26,9 @@ def print_banner():
     print(banner)
 
 
-def validate_github_token() -> bool:
+def validate_github_token(token: str) -> bool:
     """验证GitHub Token是否存在"""
-    if not GITHUB_TOKEN:
+    if not token:
         print("❌ 错误: 未找到 GitHub Token")
         print("\n请按以下步骤设置：")
         print("1. 复制 .env.example 为 .env")
@@ -127,19 +127,18 @@ def main():
     # 验证 GitHub Token
     token = args.token or GITHUB_TOKEN
     if not token:
-        if not validate_github_token():
+        if not validate_github_token(token):
             sys.exit(1)
-    
+
     # 设置输出目录
     if args.output_dir:
         os.environ['OUTPUT_DIR'] = args.output_dir
-    
+
     try:
         # 创建扫描器实例
         skip_scanned = not args.no_skip_scanned
-        scanner = CloudScanner(token, skip_scanned=skip_scanned)
+        scanner = CloudScanner(token, skip_scanned=skip_scanned, output_dir=args.output_dir)
         
-        # 根据参数执行不同的扫描
         if args.user:
             report_path = scanner.scan_user(args.user)
         elif args.org:

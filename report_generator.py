@@ -10,14 +10,14 @@ from config import OUTPUT_DIR
 class ReportGenerator:
     """扫描报告生成器"""
     
-    def __init__(self, output_dir: str = OUTPUT_DIR):
+    def __init__(self, output_dir: str = None):
         """
         初始化报告生成器
         
         Args:
             output_dir: 输出目录
         """
-        self.output_dir = output_dir
+        self.output_dir = output_dir or os.getenv('OUTPUT_DIR', OUTPUT_DIR)
         self._ensure_output_dir()
     
     def _ensure_output_dir(self):
@@ -71,10 +71,9 @@ class ReportGenerator:
             repos_count = len(set(r.get('repo_url') for r in scan_results)) if scan_results else 0
             
             status_emoji = "🔴" if high_count > 0 else "🟡" if medium_count > 0 else "✅"
-            f.write(f"  {status_emoji} 发现问题数:   {len(scan_results)} 个")
-            if len(scan_results) > 0:
-                f.write(f" (🔴 {high_count} 高危, 🟡 {medium_count} 中危)")
-            f.write("\n")
+            f.write(f"  {status_emoji} 发现的问题总数:   {len(scan_results)} 个\n")
+            f.write(f"  🔴 高置信度问题:   {high_count} 个\n")
+            f.write(f"  🟡 中置信度问题:   {medium_count} 个\n")
             f.write(f"  📦 涉及仓库数:   {repos_count} 个\n")
             f.write("\n")
             

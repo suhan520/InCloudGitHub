@@ -2,18 +2,19 @@
 主扫描器模块 - 整合所有功能
 """
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 from typing import List, Dict, Optional
 from github_scanner import GitHubScanner
 from secret_detector import SecretDetector
 from report_generator import ReportGenerator
 from scan_history import ScanHistory
+from config import MIN_DAYS_SINCE_UPDATE
 
 
 class CloudScanner:
     """云上扫描器 - 主要扫描逻辑"""
     
-    def __init__(self, github_token: str, skip_scanned: bool = True, timeout_minutes: int = 50):
+    def __init__(self, github_token: str, skip_scanned: bool = True, timeout_minutes: int = 50, output_dir: str = None):
         """
         初始化扫描器
         
@@ -21,10 +22,11 @@ class CloudScanner:
             github_token: GitHub Personal Access Token
             skip_scanned: 是否跳过已扫描的仓库 (默认: True)
             timeout_minutes: 扫描超时时间（分钟），默认50分钟
+            output_dir: 报告输出目录
         """
         self.github_scanner = GitHubScanner(github_token)
         self.secret_detector = SecretDetector()
-        self.report_generator = ReportGenerator()
+        self.report_generator = ReportGenerator(output_dir=output_dir)
         self.scan_history = ScanHistory()
         self.skip_scanned = skip_scanned
         self.timeout_seconds = timeout_minutes * 60
@@ -74,6 +76,12 @@ class CloudScanner:
         repos = self.github_scanner.get_user_repos(username)
         print(f"📦 找到 {len(repos)} 个公开仓库")
         
+        # 过滤长时间不维护的仓库
+        repos, old_count = self._filter_old_repos(repos)
+        if old_count > 0:
+            print(f"⏭️  跳过 {old_count} 个长期不维护的仓库 (最后更新超过 {MIN_DAYS_SINCE_UPDATE} 天)")
+            print(f"📦 剩余 {len(repos)} 个活跃仓库待检查")
+        
         # 过滤已扫描的仓库
         repos_to_scan, skipped_count = self._filter_scanned_repos(repos)
         if skipped_count > 0:
@@ -122,6 +130,12 @@ class CloudScanner:
         # 获取组织的所有仓库
         repos = self.github_scanner.get_org_repos(org_name)
         print(f"📦 找到 {len(repos)} 个公开仓库")
+        
+        # 过滤长时间不维护的仓库
+        repos, old_count = self._filter_old_repos(repos)
+        if old_count > 0:
+            print(f"⏭️  跳过 {old_count} 个长期不维护的仓库 (最后更新超过 {MIN_DAYS_SINCE_UPDATE} 天)")
+            print(f"📦 剩余 {len(repos)} 个活跃仓库待检查")
         
         # 过滤已扫描的仓库
         repos_to_scan, skipped_count = self._filter_scanned_repos(repos)
@@ -269,6 +283,39 @@ class CloudScanner:
         
         return repos_to_scan, skipped_count
     
+    def _filter_old_repos(self, repos: List[Dict]) -> tuple:
+        """
+        过滤长时间不维护的仓库（最后更新超过MIN_DAYS_SINCE_UPDATE天的仓库）
+        
+        Args:
+            repos: 仓库列表
+            
+        Returns:
+            (有活跃更新的仓库列表, 跳过的仓库数量)
+        """
+        repos_to_scan = []
+        skipped_count = 0
+        
+        for repo in repos:
+            updated_at = repo.get('updated_at')
+            repo_name = repo.get('full_name', 'unknown')
+            
+            if updated_at:
+                # 处理 datetime 的时区信息，确保能够比较
+                current_time = datetime.now(updated_at.tzinfo) if updated_at.tzinfo else datetime.now()
+                days_since_update = (current_time - updated_at).days
+                
+                if days_since_update > MIN_DAYS_SINCE_UPDATE:
+                    skipped_count += 1
+                    print(f"  ⏭️  跳过长期不维护: {repo_name} (最后更新: {days_since_update} 天前)")
+                else:
+                    repos_to_scan.append(repo)
+            else:
+                # 如果没有更新时间信息，默认包含
+                repos_to_scan.append(repo)
+        
+        return repos_to_scan, skipped_count
+    
     def _scan_repository(self, repo: Dict, scan_type: str = "unknown") -> List[Dict]:
         """
         扫描单个仓库
@@ -295,6 +342,7 @@ class CloudScanner:
                 return findings
             
             # 扫描每个文件
+            print(f"  📄 共找到 {len(files)} 个文件（含子目录）")
             for file_info in files:
                 # 检查是否应该扫描该文件
                 if not self.secret_detector.should_scan_file(file_info['path']):
