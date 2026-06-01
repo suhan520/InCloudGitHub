@@ -384,8 +384,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "cnguetSR/AI-": {
+      "first_scan": "2026-06-01 11:12:37",
+      "last_scan": "2026-06-01 11:12:37",
+      "findings_count": 1,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 55,
-  "last_updated": "2026-06-01 07:16:52"
+  "total_scanned": 56,
+  "last_updated": "2026-06-01 11:12:37"
 }
