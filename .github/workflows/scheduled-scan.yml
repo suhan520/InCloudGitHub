@@ -4,7 +4,7 @@ name: AI API Key Scanner - Scheduled Scan
 on:
   schedule:
     # 每天 UTC 02:00 (北京时间 10:00)
-    - cron: '0 10 * * 4'
+    - cron: '0 */6 * * *'
     
     # 也可以选择其他时间，取消注释即可：
     # - cron: '0 */6 * * *'    # 每6小时一次
