@@ -1,1627 +1,356 @@
 {
   "repos": {
     "timsterxp/DiscordBot": {
-      "first_scan": "2026-06-01 13:23:58",
-      "last_scan": "2026-06-01 13:23:58",
+      "first_scan": "2026-06-04 06:26:43",
+      "last_scan": "2026-06-04 06:26:43",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "plasma-umass/coz": {
-      "first_scan": "2026-06-01 13:26:28",
-      "last_scan": "2026-06-01 13:26:28",
+      "first_scan": "2026-06-04 06:27:55",
+      "last_scan": "2026-06-04 06:27:55",
       "findings_count": 0,
       "scan_type": "auto:ai-projects:failed",
       "scan_count": 1
     },
     "sunnysab/bot": {
-      "first_scan": "2026-06-01 13:30:18",
-      "last_scan": "2026-06-01 13:30:18",
+      "first_scan": "2026-06-04 06:28:07",
+      "last_scan": "2026-06-04 06:28:07",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "shibing624/open-o1": {
-      "first_scan": "2026-06-01 13:30:48",
-      "last_scan": "2026-06-01 13:30:48",
+      "first_scan": "2026-06-04 06:28:21",
+      "last_scan": "2026-06-04 06:28:21",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "SkyHusar/takeover-infinity-toolkit": {
-      "first_scan": "2026-06-01 13:53:13",
-      "last_scan": "2026-06-01 13:53:13",
+      "first_scan": "2026-06-04 06:28:33",
+      "last_scan": "2026-06-04 06:28:33",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "parthgupta1208/VoiceCraft": {
-      "first_scan": "2026-06-01 14:05:48",
-      "last_scan": "2026-06-01 14:05:48",
+      "first_scan": "2026-06-04 06:28:48",
+      "last_scan": "2026-06-04 06:28:48",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "himanshu662000/InfoGPT": {
-      "first_scan": "2026-06-01 14:06:06",
-      "last_scan": "2026-06-01 14:06:06",
+      "first_scan": "2026-06-04 06:28:58",
+      "last_scan": "2026-06-04 06:28:58",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "sangwu99/Simplot": {
-      "first_scan": "2026-06-01 14:10:26",
-      "last_scan": "2026-06-01 14:10:26",
+      "first_scan": "2026-06-04 06:29:19",
+      "last_scan": "2026-06-04 06:29:19",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "Kaludii/ChatGPT-Turbo-SMS": {
-      "first_scan": "2026-06-01 14:10:33",
-      "last_scan": "2026-06-01 14:10:33",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "ERR0RPR0MPT/WaifuStream": {
-      "first_scan": "2026-06-01 14:12:59",
-      "last_scan": "2026-06-01 14:12:59",
+      "first_scan": "2026-06-04 06:29:22",
+      "last_scan": "2026-06-04 06:29:22",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "jxnl/vercel-telegram-gpt": {
-      "first_scan": "2026-06-01 14:13:08",
-      "last_scan": "2026-06-01 14:13:08",
+      "first_scan": "2026-06-04 06:29:27",
+      "last_scan": "2026-06-04 06:29:27",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "gorse-io/gitrec": {
-      "first_scan": "2026-06-01 14:14:43",
-      "last_scan": "2026-06-01 14:14:43",
+      "first_scan": "2026-06-04 06:30:24",
+      "last_scan": "2026-06-04 06:30:24",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "Afool4U/MIGPT": {
-      "first_scan": "2026-06-01 14:14:53",
-      "last_scan": "2026-06-01 14:14:53",
+      "first_scan": "2026-06-04 06:30:30",
+      "last_scan": "2026-06-04 06:30:30",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "Olney1/ChatGPT-OpenAI-Smart-Speaker": {
-      "first_scan": "2026-06-01 14:16:00",
-      "last_scan": "2026-06-01 14:16:00",
+      "first_scan": "2026-06-04 06:31:07",
+      "last_scan": "2026-06-04 06:31:07",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "themanyone/whisper_dictation": {
-      "first_scan": "2026-06-01 14:16:43",
-      "last_scan": "2026-06-01 14:16:43",
+      "first_scan": "2026-06-04 06:31:32",
+      "last_scan": "2026-06-04 06:31:32",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "davidnallapu/mercata-multi-hop-rag-llm": {
-      "first_scan": "2026-06-01 14:16:53",
-      "last_scan": "2026-06-01 14:16:53",
+      "first_scan": "2026-06-04 06:31:37",
+      "last_scan": "2026-06-04 06:31:37",
       "findings_count": 0,
       "scan_type": "auto:ai-projects:failed",
       "scan_count": 1
     },
     "RedPanda0614/PeoplesDaily-RAG": {
-      "first_scan": "2026-06-01 14:17:00",
-      "last_scan": "2026-06-01 14:17:00",
+      "first_scan": "2026-06-04 06:31:41",
+      "last_scan": "2026-06-04 06:31:41",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "Elizabeth819/GPT4Video-cobra-auto": {
-      "first_scan": "2026-06-01 14:19:00",
-      "last_scan": "2026-06-01 14:19:00",
+      "first_scan": "2026-06-04 06:32:47",
+      "last_scan": "2026-06-04 06:32:47",
       "findings_count": 1,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "PatrickR1993/youtube-ci-converter": {
-      "first_scan": "2026-06-01 14:19:35",
-      "last_scan": "2026-06-01 14:19:35",
+      "first_scan": "2026-06-04 06:33:08",
+      "last_scan": "2026-06-04 06:33:08",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "daniyaljais/p1": {
-      "first_scan": "2026-06-01 14:19:46",
-      "last_scan": "2026-06-01 14:19:46",
+      "first_scan": "2026-06-04 06:33:15",
+      "last_scan": "2026-06-04 06:33:15",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "PredictaAI/predictaai.github.io": {
-      "first_scan": "2026-06-01 14:28:52",
-      "last_scan": "2026-06-01 14:28:52",
+      "first_scan": "2026-06-04 06:38:27",
+      "last_scan": "2026-06-04 06:38:27",
       "findings_count": 0,
       "scan_type": "auto:ai-projects:failed",
       "scan_count": 1
     },
     "Kanyi254/AI-Linux": {
-      "first_scan": "2026-06-01 14:28:58",
-      "last_scan": "2026-06-01 14:28:58",
+      "first_scan": "2026-06-04 06:38:31",
+      "last_scan": "2026-06-04 06:38:31",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "Tarun0951/interview": {
-      "first_scan": "2026-06-01 14:29:09",
-      "last_scan": "2026-06-01 14:29:09",
+      "first_scan": "2026-06-04 06:38:37",
+      "last_scan": "2026-06-04 06:38:37",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "crackallcode/ai_chat_bot": {
-      "first_scan": "2026-06-01 14:29:14",
-      "last_scan": "2026-06-01 14:29:14",
+      "first_scan": "2026-06-04 06:38:40",
+      "last_scan": "2026-06-04 06:38:40",
       "findings_count": 0,
       "scan_type": "auto:ai-projects:failed",
       "scan_count": 1
     },
     "Kingwell24/Large-language-model-automate-data-analysis": {
-      "first_scan": "2026-06-01 14:29:50",
-      "last_scan": "2026-06-01 14:29:50",
+      "first_scan": "2026-06-04 06:38:58",
+      "last_scan": "2026-06-04 06:38:58",
       "findings_count": 0,
       "scan_type": "auto:ai-projects:failed",
       "scan_count": 1
     },
     "JJAiprojects/crypto-analysis": {
-      "first_scan": "2026-06-01 14:31:29",
-      "last_scan": "2026-06-01 14:31:29",
+      "first_scan": "2026-06-04 06:39:50",
+      "last_scan": "2026-06-04 06:39:50",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "vpxop111/pppp": {
-      "first_scan": "2026-06-01 14:47:14",
-      "last_scan": "2026-06-01 14:47:14",
+      "first_scan": "2026-06-04 06:49:00",
+      "last_scan": "2026-06-04 06:49:00",
       "findings_count": 0,
       "scan_type": "auto:ai-projects:failed",
       "scan_count": 1
     },
     "lijiehan72/ask": {
-      "first_scan": "2026-06-01 17:07:48",
-      "last_scan": "2026-06-01 17:07:48",
+      "first_scan": "2026-06-04 06:49:04",
+      "last_scan": "2026-06-04 06:49:04",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "tatatommy6/school_miniproject": {
-      "first_scan": "2026-06-01 17:08:03",
-      "last_scan": "2026-06-01 17:08:03",
+      "first_scan": "2026-06-04 06:49:10",
+      "last_scan": "2026-06-04 06:49:10",
       "findings_count": 1,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
-<<<<<<< HEAD
     "aquam503/auto_quiz": {
-      "first_scan": "2026-06-01 17:08:16",
-      "last_scan": "2026-06-01 17:08:16",
+      "first_scan": "2026-06-04 06:49:16",
+      "last_scan": "2026-06-04 06:49:16",
       "findings_count": 1,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "Joody20/chatBot": {
-      "first_scan": "2026-06-01 17:08:28",
-      "last_scan": "2026-06-01 17:08:28",
+      "first_scan": "2026-06-04 06:49:22",
+      "last_scan": "2026-06-04 06:49:22",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "Thadzy/LLMTTS": {
-      "first_scan": "2026-06-01 17:08:53",
-      "last_scan": "2026-06-01 17:08:53",
+      "first_scan": "2026-06-04 06:49:33",
+      "last_scan": "2026-06-04 06:49:33",
       "findings_count": 4,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "Git-sit-go/Utilization11": {
-      "first_scan": "2026-06-01 17:09:00",
-      "last_scan": "2026-06-01 17:09:00",
+      "first_scan": "2026-06-04 06:49:36",
+      "last_scan": "2026-06-04 06:49:36",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "bizmo-soft/LLM_PDF_QA_Bot": {
-      "first_scan": "2026-06-01 17:09:06",
-      "last_scan": "2026-06-01 17:09:06",
+      "first_scan": "2026-06-04 06:49:39",
+      "last_scan": "2026-06-04 06:49:39",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "nihark023/Gen_AI_model": {
-      "first_scan": "2026-06-01 17:09:17",
-      "last_scan": "2026-06-01 17:09:17",
+      "first_scan": "2026-06-04 06:49:44",
+      "last_scan": "2026-06-04 06:49:44",
       "findings_count": 1,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "Arash-Khajavi/Arash": {
-      "first_scan": "2026-06-01 17:09:36",
-      "last_scan": "2026-06-01 17:09:36",
+      "first_scan": "2026-06-04 06:49:53",
+      "last_scan": "2026-06-04 06:49:53",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "souvikmaity797/aSk-mY-boT-": {
-      "first_scan": "2026-06-01 17:22:23",
-      "last_scan": "2026-06-01 17:22:23",
+      "first_scan": "2026-06-04 06:54:56",
+      "last_scan": "2026-06-04 06:54:56",
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
     },
     "IzyZen/rvu-admissions-chatbot": {
-      "first_scan": "2026-06-01 17:22:37",
-      "last_scan": "2026-06-01 17:22:37",
+      "first_scan": "2026-06-04 06:54:56",
+      "last_scan": "2026-06-04 06:54:56",
       "findings_count": 0,
-      "scan_type": "auto:ai-projects",
+      "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
     },
     "tk755/q": {
-      "first_scan": "2026-06-01 17:22:45",
-      "last_scan": "2026-06-01 17:22:45",
+      "first_scan": "2026-06-04 06:54:57",
+      "last_scan": "2026-06-04 06:54:57",
       "findings_count": 0,
-      "scan_type": "auto:ai-projects",
+      "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
     },
     "VaidehiAgarwal/SMARTREAD": {
-      "first_scan": "2026-06-01 17:22:51",
-      "last_scan": "2026-06-01 17:22:51",
+      "first_scan": "2026-06-04 06:54:57",
+      "last_scan": "2026-06-04 06:54:57",
       "findings_count": 0,
-      "scan_type": "auto:ai-projects",
+      "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
     },
     "fullthom/chat-gpt-quine": {
-      "first_scan": "2026-06-01 17:24:48",
-      "last_scan": "2026-06-01 17:24:48",
+      "first_scan": "2026-06-04 06:54:57",
+      "last_scan": "2026-06-04 06:54:57",
       "findings_count": 0,
-      "scan_type": "auto:ai-projects",
+      "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
     },
     "Rajiv714/AVST_DB_BC": {
-      "first_scan": "2026-06-01 17:25:23",
-      "last_scan": "2026-06-01 17:25:23",
+      "first_scan": "2026-06-04 06:54:58",
+      "last_scan": "2026-06-04 06:54:58",
       "findings_count": 0,
-      "scan_type": "auto:ai-projects",
+      "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
     },
     "mali1sav/embedding-visualisation": {
-      "first_scan": "2026-06-01 17:25:33",
-      "last_scan": "2026-06-01 17:25:33",
+      "first_scan": "2026-06-04 06:54:58",
+      "last_scan": "2026-06-04 06:54:58",
       "findings_count": 0,
-      "scan_type": "auto:ai-projects",
+      "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
     },
     "wanru122/midtern": {
-      "first_scan": "2026-06-01 17:27:33",
-      "last_scan": "2026-06-01 17:27:33",
-      "findings_count": 1,
-      "scan_type": "auto:ai-projects",
+      "first_scan": "2026-06-04 06:54:58",
+      "last_scan": "2026-06-04 06:54:58",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
     },
     "ilabelagent/zionsec_Bot": {
-      "first_scan": "2026-06-01 17:31:43",
-      "last_scan": "2026-06-01 17:31:43",
+      "first_scan": "2026-06-04 06:54:58",
+      "last_scan": "2026-06-04 06:54:58",
       "findings_count": 0,
-      "scan_type": "auto:ai-projects:failed",
+      "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
     },
     "oracleyu01/ai_analyst": {
-      "first_scan": "2026-06-01 17:31:48",
-      "last_scan": "2026-06-01 17:31:48",
+      "first_scan": "2026-06-04 06:54:59",
+      "last_scan": "2026-06-04 06:54:59",
       "findings_count": 0,
-      "scan_type": "auto:ai-projects",
+      "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
     },
     "govindudusrihari/Nbn": {
-      "first_scan": "2026-06-01 17:32:32",
-      "last_scan": "2026-06-01 17:32:32",
+      "first_scan": "2026-06-04 06:54:59",
+      "last_scan": "2026-06-04 06:54:59",
       "findings_count": 0,
-      "scan_type": "auto:ai-projects",
+      "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
     },
     "Seaklav/Clon": {
-      "first_scan": "2026-06-01 17:32:49",
-      "last_scan": "2026-06-01 17:32:49",
+      "first_scan": "2026-06-04 06:54:59",
+      "last_scan": "2026-06-04 06:54:59",
       "findings_count": 0,
-      "scan_type": "auto:ai-projects",
+      "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
     },
     "FinVital/aicuredynamics": {
-      "first_scan": "2026-06-01 17:33:04",
-      "last_scan": "2026-06-01 17:33:04",
+      "first_scan": "2026-06-04 06:54:59",
+      "last_scan": "2026-06-04 06:54:59",
       "findings_count": 0,
-      "scan_type": "auto:ai-projects",
+      "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
     },
     "tmrtrkr/CaseSpy": {
-      "first_scan": "2026-06-01 17:33:30",
-      "last_scan": "2026-06-01 17:33:30",
+      "first_scan": "2026-06-04 06:55:00",
+      "last_scan": "2026-06-04 06:55:00",
       "findings_count": 0,
-      "scan_type": "auto:ai-projects",
+      "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
     },
     "hwbjun/minipj": {
-      "first_scan": "2026-06-01 17:33:35",
-      "last_scan": "2026-06-01 17:33:35",
+      "first_scan": "2026-06-04 06:55:00",
+      "last_scan": "2026-06-04 06:55:00",
       "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "Elliotichi/placePal": {
-      "first_scan": "2026-06-01 17:34:42",
-      "last_scan": "2026-06-01 17:34:42",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "GabelGame/AI-TGBot": {
-      "first_scan": "2026-06-01 17:34:46",
-      "last_scan": "2026-06-01 17:34:46",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "SanyamGarg02/AI-Medical-Scribe": {
-      "first_scan": "2026-06-01 17:35:00",
-      "last_scan": "2026-06-01 17:35:00",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "michalmuzyka/swd": {
-      "first_scan": "2026-06-01 17:35:15",
-      "last_scan": "2026-06-01 17:35:15",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "cnguetSR/AI-": {
-      "first_scan": "2026-06-01 17:35:21",
-      "last_scan": "2026-06-01 17:35:21",
-      "findings_count": 1,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "SGRKAPOOR/Capstone-Project--Heartgaurd-and-Mindpal": {
-      "first_scan": "2026-06-01 18:35:47",
-      "last_scan": "2026-06-01 18:35:47",
-=======
-    "SGRKAPOOR/Capstone-Project--Heartgaurd-and-Mindpal": {
-      "first_scan": "2026-06-02 07:28:45",
-      "last_scan": "2026-06-02 07:28:45",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:failed",
-      "scan_count": 1
-    },
-    "hongwon1031/MS_AI_project_2": {
-      "first_scan": "2026-06-02 10:09:17",
-      "last_scan": "2026-06-02 10:09:17",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:failed",
-      "scan_count": 1
-    },
-    "0kaiiix/gptyy": {
-      "first_scan": "2026-06-02 10:09:20",
-      "last_scan": "2026-06-02 10:09:20",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "joedanields/PRISM": {
-      "first_scan": "2026-06-02 10:09:42",
-      "last_scan": "2026-06-02 10:09:42",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "TwoAbove/lc": {
-      "first_scan": "2026-06-02 10:09:47",
-      "last_scan": "2026-06-02 10:09:47",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "Ihebdhouibi/neuro": {
-      "first_scan": "2026-06-02 10:12:34",
-      "last_scan": "2026-06-02 10:12:34",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "MeachSeaklav/M-and-E-Automate-System-user-input-prompt-": {
-      "first_scan": "2026-06-02 10:12:46",
-      "last_scan": "2026-06-02 10:12:46",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "Ascensao/python_chatGPT_voice": {
-      "first_scan": "2026-06-02 10:12:55",
-      "last_scan": "2026-06-02 10:12:55",
-      "findings_count": 2,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "akhilova/crystalia-glss-seo": {
-      "first_scan": "2026-06-02 10:13:55",
-      "last_scan": "2026-06-02 10:13:55",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "KobiBryant22/118I-RedTeam": {
-      "first_scan": "2026-06-02 10:14:00",
-      "last_scan": "2026-06-02 10:14:00",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "24f1001940/project1-llm-based-automation-agent": {
-      "first_scan": "2026-06-02 10:32:23",
-      "last_scan": "2026-06-02 10:32:23",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "joanix2/AppMeshCLI": {
-      "first_scan": "2026-06-02 10:33:57",
-      "last_scan": "2026-06-02 10:33:57",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "MihirVasoya/Gen_AI": {
-      "first_scan": "2026-06-02 10:34:04",
-      "last_scan": "2026-06-02 10:34:04",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "atasen19/ai-libraries": {
-      "first_scan": "2026-06-02 10:34:06",
-      "last_scan": "2026-06-02 10:34:06",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "pytenter/cpp": {
-      "first_scan": "2026-06-02 10:34:22",
-      "last_scan": "2026-06-02 10:34:22",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "easyasme/Code_Readability": {
-      "first_scan": "2026-06-02 10:49:47",
-      "last_scan": "2026-06-02 10:49:47",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "7beunseo/Simplot": {
-      "first_scan": "2026-06-02 10:49:48",
-      "last_scan": "2026-06-02 10:49:48",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "CristianoXico/mcp_br": {
-      "first_scan": "2026-06-02 10:49:48",
-      "last_scan": "2026-06-02 10:49:48",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "Yale-LILY/NLP4Code": {
-      "first_scan": "2026-06-02 10:49:48",
-      "last_scan": "2026-06-02 10:49:48",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "aekdahl/LangSwarm": {
-      "first_scan": "2026-06-02 10:49:49",
-      "last_scan": "2026-06-02 10:49:49",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "UseIt-AI/use-it-agent": {
-      "first_scan": "2026-06-02 10:49:49",
-      "last_scan": "2026-06-02 10:49:49",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "OmerBassan/cham_HE": {
-      "first_scan": "2026-06-02 10:49:50",
-      "last_scan": "2026-06-02 10:49:50",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "hudsoncss/SFDCAudit": {
-      "first_scan": "2026-06-02 10:49:50",
-      "last_scan": "2026-06-02 10:49:50",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "GetGoAPI/Free-GPT-Grok-Gemini-Claude-API": {
-      "first_scan": "2026-06-02 10:49:50",
-      "last_scan": "2026-06-02 10:49:50",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "Haytam23/FinanceDashboard": {
-      "first_scan": "2026-06-02 10:49:51",
-      "last_scan": "2026-06-02 10:49:51",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "parthmaheshwari/emerging-sectors-forecast": {
-      "first_scan": "2026-06-02 10:49:51",
-      "last_scan": "2026-06-02 10:49:51",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "elizaOS/eliza": {
-      "first_scan": "2026-06-02 10:49:51",
-      "last_scan": "2026-06-02 10:49:51",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "xcmt/ABC_report": {
-      "first_scan": "2026-06-02 10:49:52",
-      "last_scan": "2026-06-02 10:49:52",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "justinnk/text-to-crn": {
-      "first_scan": "2026-06-02 10:49:52",
-      "last_scan": "2026-06-02 10:49:52",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "e2b-dev/e2b-cookbook": {
-      "first_scan": "2026-06-02 10:49:52",
-      "last_scan": "2026-06-02 10:49:52",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "hyChia88/MemoryCartography": {
-      "first_scan": "2026-06-02 10:49:53",
-      "last_scan": "2026-06-02 10:49:53",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "AdityaMitt11/chatbot": {
-      "first_scan": "2026-06-02 10:49:53",
-      "last_scan": "2026-06-02 10:49:53",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "RobHand27/AltCredit-HackIllinois-2025": {
-      "first_scan": "2026-06-02 10:49:54",
-      "last_scan": "2026-06-02 10:49:54",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "ASISys/Adrenaline": {
-      "first_scan": "2026-06-02 10:49:54",
-      "last_scan": "2026-06-02 10:49:54",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "qrzou/FML-bench": {
-      "first_scan": "2026-06-02 10:49:54",
-      "last_scan": "2026-06-02 10:49:54",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "MattSteffen/internal-perplexity": {
-      "first_scan": "2026-06-02 10:49:55",
-      "last_scan": "2026-06-02 10:49:55",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "RijalArul/hr-ai-assistant-tag": {
-      "first_scan": "2026-06-02 10:49:55",
-      "last_scan": "2026-06-02 10:49:55",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "khaoss85/AI-Team-Orchestrator": {
-      "first_scan": "2026-06-02 10:49:55",
-      "last_scan": "2026-06-02 10:49:55",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "harvard-edge/cs249r_book": {
-      "first_scan": "2026-06-02 10:49:56",
-      "last_scan": "2026-06-02 10:49:56",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "swarmauri/swarmauri-sdk": {
-      "first_scan": "2026-06-02 10:49:56",
-      "last_scan": "2026-06-02 10:49:56",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "thesohamdatta/Rag-Chatbot": {
-      "first_scan": "2026-06-02 10:49:56",
-      "last_scan": "2026-06-02 10:49:56",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "ivan-pua/pdf-rag-template": {
-      "first_scan": "2026-06-02 10:49:57",
-      "last_scan": "2026-06-02 10:49:57",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "Serverless-Devs/agentrun-sdk-python": {
-      "first_scan": "2026-06-02 10:49:57",
-      "last_scan": "2026-06-02 10:49:57",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "SanJerry007/nonebot-plugin-chatgpt-api": {
-      "first_scan": "2026-06-02 10:49:57",
-      "last_scan": "2026-06-02 10:49:57",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "renanmoretto/investidor-ia": {
-      "first_scan": "2026-06-02 10:49:58",
-      "last_scan": "2026-06-02 10:49:58",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "AammarTufail/DSAAMP_2025": {
-      "first_scan": "2026-06-02 10:49:58",
-      "last_scan": "2026-06-02 10:49:58",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "sine-io/byte-of-nanobot": {
-      "first_scan": "2026-06-02 10:49:59",
-      "last_scan": "2026-06-02 10:49:59",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "yiouyou/RePolyA": {
-      "first_scan": "2026-06-02 10:49:59",
-      "last_scan": "2026-06-02 10:49:59",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "usGuri-Dufutti/usGuri_Dufutti-backend": {
-      "first_scan": "2026-06-02 10:49:59",
-      "last_scan": "2026-06-02 10:49:59",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "ace-step/ACE-Step-1.5": {
-      "first_scan": "2026-06-02 10:50:00",
-      "last_scan": "2026-06-02 10:50:00",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "openakita/openakita": {
-      "first_scan": "2026-06-02 10:50:00",
-      "last_scan": "2026-06-02 10:50:00",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "shoutoutuoadi325/mlsys-project": {
-      "first_scan": "2026-06-02 16:05:22",
-      "last_scan": "2026-06-02 16:05:22",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "jtanaka104/openai_api_bot": {
-      "first_scan": "2026-06-02 16:05:31",
-      "last_scan": "2026-06-02 16:05:31",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "TakanariShimbo/open-super-whisper-v2": {
-      "first_scan": "2026-06-02 16:07:35",
-      "last_scan": "2026-06-02 16:07:35",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "Damrl-lab/SSD_LLM": {
-      "first_scan": "2026-06-02 16:07:59",
-      "last_scan": "2026-06-02 16:07:59",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:failed",
-      "scan_count": 1
-    },
-    "BitCodeHub/YappyAI": {
-      "first_scan": "2026-06-02 16:12:47",
-      "last_scan": "2026-06-02 16:12:47",
-      "findings_count": 1,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "AKIVA-AI/toolkit-llm-gateway": {
-      "first_scan": "2026-06-02 16:27:15",
-      "last_scan": "2026-06-02 16:27:15",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:failed",
-      "scan_count": 1
-    },
-    "RainJamesY/FuzzLLM": {
-      "first_scan": "2026-06-02 16:31:01",
-      "last_scan": "2026-06-02 16:31:01",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:failed",
-      "scan_count": 1
-    },
-    "NNDSrinivas/mentor_app": {
-      "first_scan": "2026-06-02 16:37:00",
-      "last_scan": "2026-06-02 16:37:00",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "bakabala27-svg/NAAS-Agentic-Core": {
-      "first_scan": "2026-06-02 16:48:51",
-      "last_scan": "2026-06-02 16:48:51",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "dagster-io/dagster": {
-      "first_scan": "2026-06-02 16:48:51",
-      "last_scan": "2026-06-02 16:48:51",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "pj-13-shukla/serp-clustering-app": {
-      "first_scan": "2026-06-02 16:48:52",
-      "last_scan": "2026-06-02 16:48:52",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "sssmile2yong/linebot": {
-      "first_scan": "2026-06-02 16:48:52",
-      "last_scan": "2026-06-02 16:48:52",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "LachinFernando/speech_therapist": {
-      "first_scan": "2026-06-02 16:48:52",
-      "last_scan": "2026-06-02 16:48:52",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "He-ship-sar/ACYOLO": {
-      "first_scan": "2026-06-02 16:48:52",
-      "last_scan": "2026-06-02 16:48:52",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "HealthifyMe/coralogix-mcp": {
-      "first_scan": "2026-06-02 16:48:53",
-      "last_scan": "2026-06-02 16:48:53",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "cumbersomeamir/all_apis": {
-      "first_scan": "2026-06-02 16:48:53",
-      "last_scan": "2026-06-02 16:48:53",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "BigDataIA-Fall2024-Team9/Assignment_1": {
-      "first_scan": "2026-06-02 16:48:53",
-      "last_scan": "2026-06-02 16:48:53",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "huggingface/optimum-neuron": {
-      "first_scan": "2026-06-02 16:48:53",
-      "last_scan": "2026-06-02 16:48:53",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "wanghaodi/forex-trading-analysis-agent": {
-      "first_scan": "2026-06-02 16:48:54",
-      "last_scan": "2026-06-02 16:48:54",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "mrzeznic/AI_devs_3": {
-      "first_scan": "2026-06-02 16:48:54",
-      "last_scan": "2026-06-02 16:48:54",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "velagalasr/ai-chatbot-template": {
-      "first_scan": "2026-06-02 16:48:54",
-      "last_scan": "2026-06-02 16:48:54",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "Ketan-K17/llama_cpp_experiments": {
-      "first_scan": "2026-06-02 16:48:55",
-      "last_scan": "2026-06-02 16:48:55",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "ThinkbrgAI/doctype": {
-      "first_scan": "2026-06-02 16:48:55",
-      "last_scan": "2026-06-02 16:48:55",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "sreelakshmiarjun27/LLMCloudInfrastructureProject": {
-      "first_scan": "2026-06-02 16:48:55",
-      "last_scan": "2026-06-02 16:48:55",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "JapiKredi/crewAI-basics": {
-      "first_scan": "2026-06-02 16:48:55",
-      "last_scan": "2026-06-02 16:48:55",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "michalzagrodzki/compliance-tracker-mvp-api": {
-      "first_scan": "2026-06-02 16:48:56",
-      "last_scan": "2026-06-02 16:48:56",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "heyifan142857/slidebake": {
-      "first_scan": "2026-06-02 16:48:56",
-      "last_scan": "2026-06-02 16:48:56",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "Robbe1991/agentgym": {
-      "first_scan": "2026-06-02 16:48:56",
-      "last_scan": "2026-06-02 16:48:56",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "Rperry2174/faster_crowssword_generator": {
-      "first_scan": "2026-06-02 16:48:57",
-      "last_scan": "2026-06-02 16:48:57",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "golebiepalkamtm-ship-it/mecenas": {
-      "first_scan": "2026-06-02 16:48:57",
-      "last_scan": "2026-06-02 16:48:57",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "synaptent/aragora": {
-      "first_scan": "2026-06-02 16:48:57",
-      "last_scan": "2026-06-02 16:48:57",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "hisr2024/MindVibe": {
-      "first_scan": "2026-06-02 16:48:57",
-      "last_scan": "2026-06-02 16:48:57",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "tayyaba034/Image-processing-agent": {
-      "first_scan": "2026-06-02 16:48:58",
-      "last_scan": "2026-06-02 16:48:58",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "zht7063/agenticRAG": {
-      "first_scan": "2026-06-02 16:48:58",
-      "last_scan": "2026-06-02 16:48:58",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "biswajith/texttomql": {
-      "first_scan": "2026-06-02 16:48:58",
-      "last_scan": "2026-06-02 16:48:58",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "jwm4/llama-stack-odh": {
-      "first_scan": "2026-06-02 16:48:58",
-      "last_scan": "2026-06-02 16:48:58",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "set-university/genai-workshops": {
-      "first_scan": "2026-06-02 16:48:59",
-      "last_scan": "2026-06-02 16:48:59",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "hawkinf/ai-orchestrator": {
-      "first_scan": "2026-06-02 16:48:59",
-      "last_scan": "2026-06-02 16:48:59",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "aminparva84/InsightGym": {
-      "first_scan": "2026-06-02 16:48:59",
-      "last_scan": "2026-06-02 16:48:59",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "HGF-hgf/RAG": {
-      "first_scan": "2026-06-02 16:49:00",
-      "last_scan": "2026-06-02 16:49:00",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "phanideva/gen_ai_financial_report_generator": {
-      "first_scan": "2026-06-02 16:49:00",
-      "last_scan": "2026-06-02 16:49:00",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "SMOG-Devs/jargone": {
-      "first_scan": "2026-06-02 16:49:00",
-      "last_scan": "2026-06-02 16:49:00",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "moebachar/resume-processor": {
-      "first_scan": "2026-06-02 16:49:00",
-      "last_scan": "2026-06-02 16:49:00",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "alfinkly/ThaiBot": {
-      "first_scan": "2026-06-02 16:49:01",
-      "last_scan": "2026-06-02 16:49:01",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "glwhappen/llms-bug-replicators": {
-      "first_scan": "2026-06-02 16:49:01",
-      "last_scan": "2026-06-02 16:49:01",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "Agent-CI/agentexec": {
-      "first_scan": "2026-06-02 16:49:01",
-      "last_scan": "2026-06-02 16:49:01",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "basudevaimplify/FinancialAgentPlatform": {
-      "first_scan": "2026-06-02 16:49:01",
-      "last_scan": "2026-06-02 16:49:01",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "juanfranem/adha_bot": {
-      "first_scan": "2026-06-02 16:49:02",
-      "last_scan": "2026-06-02 16:49:02",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "prodBirdy/BlendGPT": {
-      "first_scan": "2026-06-02 16:49:02",
-      "last_scan": "2026-06-02 16:49:02",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "EverMind-AI/EverOS": {
-      "first_scan": "2026-06-02 16:49:02",
-      "last_scan": "2026-06-02 16:49:02",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "Neha20072002/Summaraii": {
-      "first_scan": "2026-06-02 20:37:08",
-      "last_scan": "2026-06-02 20:37:08",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "Gosshi/gym-equipment-directory": {
-      "first_scan": "2026-06-02 20:46:58",
-      "last_scan": "2026-06-02 20:46:58",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "varunbiluri/indian-job-search-agents": {
-      "first_scan": "2026-06-02 20:47:50",
-      "last_scan": "2026-06-02 20:47:50",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "tcbuilds/llm-cookbook-public": {
-      "first_scan": "2026-06-02 20:50:05",
-      "last_scan": "2026-06-02 20:50:05",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "mostafizemon/fastapi-k8s-deploy": {
-      "first_scan": "2026-06-02 20:50:14",
-      "last_scan": "2026-06-02 20:50:14",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "nicksimpkins/shortsmachine-v2c": {
-      "first_scan": "2026-06-02 20:50:40",
-      "last_scan": "2026-06-02 20:50:40",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "ashan24019/RAG-Research-Paper-Analyzer": {
-      "first_scan": "2026-06-02 20:51:18",
-      "last_scan": "2026-06-02 20:51:18",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "nexi-lab/nexus": {
-      "first_scan": "2026-06-02 21:08:31",
-      "last_scan": "2026-06-02 21:08:31",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:failed",
-      "scan_count": 1
-    },
-    "VietRocHack/YoungHeroes-frontend": {
-      "first_scan": "2026-06-02 21:09:14",
-      "last_scan": "2026-06-02 21:09:14",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "Bracha-Projects/FilePracticum2025": {
-      "first_scan": "2026-06-02 21:11:11",
-      "last_scan": "2026-06-02 21:11:11",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "DevloperAbrar/AiPlanate": {
-      "first_scan": "2026-06-02 21:11:12",
-      "last_scan": "2026-06-02 21:11:12",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "cloudliness/Hermes-Autonomous-AI-Agent-Dialed-In-For-Windows-11": {
-      "first_scan": "2026-06-02 21:11:12",
-      "last_scan": "2026-06-02 21:11:12",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "agentica-project/rllm": {
-      "first_scan": "2026-06-02 21:11:12",
-      "last_scan": "2026-06-02 21:11:12",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "kolya-rjv/pln_longevity": {
-      "first_scan": "2026-06-02 21:11:13",
-      "last_scan": "2026-06-02 21:11:13",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "Legacyadmin25/legacy_admin": {
-      "first_scan": "2026-06-02 21:11:13",
-      "last_scan": "2026-06-02 21:11:13",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "dvcrn/openclaw-skills-marketplace": {
-      "first_scan": "2026-06-02 21:11:13",
-      "last_scan": "2026-06-02 21:11:13",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "abelmou/Healthcare-Assistant": {
-      "first_scan": "2026-06-02 21:11:13",
-      "last_scan": "2026-06-02 21:11:13",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "ianarawjo/evalstats": {
-      "first_scan": "2026-06-02 21:11:14",
-      "last_scan": "2026-06-02 21:11:14",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "idan-tankel/InformCT_public": {
-      "first_scan": "2026-06-02 21:11:14",
-      "last_scan": "2026-06-02 21:11:14",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "ozzulak/2025-ASU_v0": {
-      "first_scan": "2026-06-02 21:11:14",
-      "last_scan": "2026-06-02 21:11:14",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "Balaji-735/autism-chatbot-new-evaluation": {
-      "first_scan": "2026-06-02 21:11:14",
-      "last_scan": "2026-06-02 21:11:14",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "ea2021072616/Python-AI-Agent": {
-      "first_scan": "2026-06-02 21:11:15",
-      "last_scan": "2026-06-02 21:11:15",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "AboAlmoor/Geo-AI-Assistant": {
-      "first_scan": "2026-06-02 21:11:15",
-      "last_scan": "2026-06-02 21:11:15",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "ypollak2/llm-router": {
-      "first_scan": "2026-06-02 21:11:15",
-      "last_scan": "2026-06-02 21:11:15",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "CaoMuBenXin/AI": {
-      "first_scan": "2026-06-02 21:11:16",
-      "last_scan": "2026-06-02 21:11:16",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "quantamixsol/graqle": {
-      "first_scan": "2026-06-02 21:11:16",
-      "last_scan": "2026-06-02 21:11:16",
-      "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "vivekchand/clawmetry": {
-      "first_scan": "2026-06-02 21:11:16",
-      "last_scan": "2026-06-02 21:11:16",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "xialulee/WaveSyn": {
-      "first_scan": "2026-06-02 21:11:16",
-      "last_scan": "2026-06-02 21:11:16",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "kprsnt2/kprsnt.in": {
-      "first_scan": "2026-06-02 21:11:17",
-      "last_scan": "2026-06-02 21:11:17",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "ChaosJu/deepseek-finrobot": {
-      "first_scan": "2026-06-02 21:11:17",
-      "last_scan": "2026-06-02 21:11:17",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "screechingviolet/epic-tikz-diagram-generator": {
-      "first_scan": "2026-06-02 21:11:17",
-      "last_scan": "2026-06-02 21:11:17",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "aishwaryamy/opspilot": {
-      "first_scan": "2026-06-02 21:11:18",
-      "last_scan": "2026-06-02 21:11:18",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "zhangzhenyu13/llm3s-conatiner": {
-      "first_scan": "2026-06-02 21:11:18",
-      "last_scan": "2026-06-02 21:11:18",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "kernullist/PseudoForge": {
-      "first_scan": "2026-06-02 21:11:18",
-      "last_scan": "2026-06-02 21:11:18",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "ReedGraff/schemic": {
-      "first_scan": "2026-06-02 21:11:18",
-      "last_scan": "2026-06-02 21:11:18",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "SmallBlackHole/opentelemetry-instrumentation-genai-examples": {
-      "first_scan": "2026-06-02 21:11:19",
-      "last_scan": "2026-06-02 21:11:19",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "sgt1796/GPT_embedding": {
-      "first_scan": "2026-06-02 21:11:19",
-      "last_scan": "2026-06-02 21:11:19",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "shabihhaider/unified-social-insights": {
-      "first_scan": "2026-06-02 21:11:19",
-      "last_scan": "2026-06-02 21:11:19",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "nsbradford/VimGPT": {
-      "first_scan": "2026-06-02 21:11:20",
-      "last_scan": "2026-06-02 21:11:20",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "yoohyunseog/nbw_wfa-chatbot": {
-      "first_scan": "2026-06-02 21:11:20",
-      "last_scan": "2026-06-02 21:11:20",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "hackedbyagirl/program-engineer-gpt": {
-      "first_scan": "2026-06-02 21:11:20",
-      "last_scan": "2026-06-02 21:11:20",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "priyansupattanaik/polymind": {
-      "first_scan": "2026-06-02 21:11:20",
-      "last_scan": "2026-06-02 21:11:20",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "m-cmp/mc-observability": {
-      "first_scan": "2026-06-02 21:11:21",
-      "last_scan": "2026-06-02 21:11:21",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "summarybotng/summarybot-ng": {
-      "first_scan": "2026-06-02 21:11:21",
-      "last_scan": "2026-06-02 21:11:21",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "faizan1041/doc-understanding-gpt-langchain": {
-      "first_scan": "2026-06-02 21:11:21",
-      "last_scan": "2026-06-02 21:11:21",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "tsinghua-fib-lab/DoT": {
-      "first_scan": "2026-06-02 21:11:21",
-      "last_scan": "2026-06-02 21:11:21",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "Sharma-Mayank15/RAG-Based-LLM-Resume-Screening-AI-Evaluation-System": {
-      "first_scan": "2026-06-02 21:11:22",
-      "last_scan": "2026-06-02 21:11:22",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "navig-run/core": {
-      "first_scan": "2026-06-02 21:11:22",
-      "last_scan": "2026-06-02 21:11:22",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "belong-to/RAG": {
-      "first_scan": "2026-06-02 21:11:22",
-      "last_scan": "2026-06-02 21:11:22",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "extrawest/fastapi-langgraph-chatbot-with-vector-store-memory-mcp-tools-and-voice-mode": {
-      "first_scan": "2026-06-02 21:11:23",
-      "last_scan": "2026-06-02 21:11:23",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "SooLab/EyeWO": {
-      "first_scan": "2026-06-03 02:55:36",
-      "last_scan": "2026-06-03 02:55:36",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:failed",
-      "scan_count": 1
-    },
-    "Rafaelmdcarneiro/local-agi": {
-      "first_scan": "2026-06-03 02:56:18",
-      "last_scan": "2026-06-03 02:56:18",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "Yahya-Halim/GSML-v0.1": {
-      "first_scan": "2026-06-03 02:56:32",
-      "last_scan": "2026-06-03 02:56:32",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:failed",
-      "scan_count": 1
-    },
-    "vrichardo/AI-Powered-Penetration-Test-Remediation": {
-      "first_scan": "2026-06-03 02:56:50",
-      "last_scan": "2026-06-03 02:56:50",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "xqyww123/Isa-Mini": {
-      "first_scan": "2026-06-03 03:07:36",
-      "last_scan": "2026-06-03 03:07:36",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:failed",
-      "scan_count": 1
-    },
-    "Artessay/NL2SQL-Benchmark": {
-      "first_scan": "2026-06-03 03:10:51",
-      "last_scan": "2026-06-03 03:10:51",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:failed",
-      "scan_count": 1
-    },
-    "Sianlk/aibltycode": {
-      "first_scan": "2026-06-03 03:18:21",
-      "last_scan": "2026-06-03 03:18:21",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "xiaoxuanNLP/GoLongRL": {
-      "first_scan": "2026-06-03 03:48:13",
-      "last_scan": "2026-06-03 03:48:13",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "alirezaazarm/COZMOZ": {
-      "first_scan": "2026-06-03 06:43:31",
-      "last_scan": "2026-06-03 06:43:31",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "codellm12842/RPM-MCTS": {
-      "first_scan": "2026-06-03 06:44:31",
-      "last_scan": "2026-06-03 06:44:31",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:failed",
-      "scan_count": 1
-    },
-    "YuraYarmola/TelegramAIShop": {
-      "first_scan": "2026-06-03 06:44:40",
-      "last_scan": "2026-06-03 06:44:40",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "sailing-innocent/SailAlgo": {
-      "first_scan": "2026-06-03 06:54:29",
-      "last_scan": "2026-06-03 06:54:29",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "dawnai/Louvain": {
-      "first_scan": "2026-06-03 06:55:02",
-      "last_scan": "2026-06-03 06:55:02",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:failed",
-      "scan_count": 1
-    },
-    "Arnoldlarry15/red-set-protocell": {
-      "first_scan": "2026-06-03 07:00:44",
-      "last_scan": "2026-06-03 07:00:44",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "Rebell-Leader/NutriGuide-AI": {
-      "first_scan": "2026-06-03 07:01:03",
-      "last_scan": "2026-06-03 07:01:03",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "shaurya1negi/Scheme-Saathi": {
-      "first_scan": "2026-06-03 07:23:41",
-      "last_scan": "2026-06-03 07:23:41",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "YYChang34/Assignment-2": {
-      "first_scan": "2026-06-03 07:23:41",
-      "last_scan": "2026-06-03 07:23:41",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "wagnerww/LangChain-RAG-LLM-GPT": {
-      "first_scan": "2026-06-03 07:23:41",
-      "last_scan": "2026-06-03 07:23:41",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "jain-atishay/job-source-agent": {
-      "first_scan": "2026-06-03 07:23:42",
-      "last_scan": "2026-06-03 07:23:42",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:no-access",
-      "scan_count": 1
-    },
-    "bogerman1/docharbor": {
-      "first_scan": "2026-06-03 10:50:22",
-      "last_scan": "2026-06-03 10:50:22",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects",
-      "scan_count": 1
-    },
-    "ProjectVaquitai/Vaquitai": {
-      "first_scan": "2026-06-03 10:57:17",
-      "last_scan": "2026-06-03 10:57:17",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:failed",
-      "scan_count": 1
-    },
-    "mikaelzzzz/AgenteVendas_Karol": {
-      "first_scan": "2026-06-03 16:20:12",
-      "last_scan": "2026-06-03 16:20:12",
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:failed",
-      "scan_count": 1
-    },
-    "timoncool/ACE-Step-Studio": {
-      "first_scan": "2026-06-04 02:56:08",
-      "last_scan": "2026-06-04 02:56:08",
->>>>>>> 20da96943c501350ee3130511f7e65d8da6d46c7
-      "findings_count": 0,
-      "scan_type": "auto:ai-projects:failed",
       "scan_count": 1
     }
   },
-<<<<<<< HEAD
-  "total_scanned": 57,
-  "last_updated": "2026-06-01 18:35:47"
-=======
-  "total_scanned": 230,
-  "last_updated": "2026-06-04 02:56:08"
->>>>>>> 20da96943c501350ee3130511f7e65d8da6d46c7
+  "total_scanned": 50,
+  "last_updated": "2026-06-04 06:55:00"
 }
