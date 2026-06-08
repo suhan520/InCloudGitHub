@@ -1854,8 +1854,358 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "mehbinac/pathway-ai-bootcamp": {
+      "first_scan": "2026-06-08 15:33:03",
+      "last_scan": "2026-06-08 15:33:03",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Melokeo/clipboard-citation-pickup": {
+      "first_scan": "2026-06-08 15:33:13",
+      "last_scan": "2026-06-08 15:33:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "drag0n1zed/museum_bot": {
+      "first_scan": "2026-06-08 15:33:45",
+      "last_scan": "2026-06-08 15:33:45",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "abhishekkumar62000/TechSeva-IT-Recruitment-Agent.AI": {
+      "first_scan": "2026-06-08 15:33:53",
+      "last_scan": "2026-06-08 15:33:53",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "loryfelnunez/Gulliver": {
+      "first_scan": "2026-06-08 15:34:15",
+      "last_scan": "2026-06-08 15:34:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "raul-arrabales/ExaminatorPlus": {
+      "first_scan": "2026-06-08 15:34:54",
+      "last_scan": "2026-06-08 15:34:54",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "EdF2021/BerendBotjeSkills": {
+      "first_scan": "2026-06-08 15:35:53",
+      "last_scan": "2026-06-08 15:35:53",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "Enriquefft/Reganvi-wsp": {
+      "first_scan": "2026-06-08 15:36:18",
+      "last_scan": "2026-06-08 15:36:18",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "reorx/ai.py": {
+      "first_scan": "2026-06-08 15:36:26",
+      "last_scan": "2026-06-08 15:36:26",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "hu-po/distillator": {
+      "first_scan": "2026-06-08 15:36:33",
+      "last_scan": "2026-06-08 15:36:33",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "ethank2222/TrinityAI": {
+      "first_scan": "2026-06-08 15:36:52",
+      "last_scan": "2026-06-08 15:36:52",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Suor/battle-brothers-rosetta": {
+      "first_scan": "2026-06-08 15:37:16",
+      "last_scan": "2026-06-08 15:37:16",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "marketcalls/sketchmaker": {
+      "first_scan": "2026-06-08 15:39:18",
+      "last_scan": "2026-06-08 15:39:18",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "Link-AGI/AutoAgents": {
+      "first_scan": "2026-06-08 15:41:25",
+      "last_scan": "2026-06-08 15:41:25",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "garystafford/creative-analysis-claude-bedrock": {
+      "first_scan": "2026-06-08 15:41:55",
+      "last_scan": "2026-06-08 15:41:55",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "shadsidd/DarkWeb-Monitoring": {
+      "first_scan": "2026-06-08 15:41:59",
+      "last_scan": "2026-06-08 15:41:59",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "hoodini/yuv-ai-trends": {
+      "first_scan": "2026-06-08 16:01:01",
+      "last_scan": "2026-06-08 16:01:01",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "GabrielPlassat/master_problem": {
+      "first_scan": "2026-06-08 16:01:05",
+      "last_scan": "2026-06-08 16:01:05",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "karlospn/building-qa-app-with-aws-bedrock-kendra-s3-and-streamlit": {
+      "first_scan": "2026-06-08 16:01:25",
+      "last_scan": "2026-06-08 16:01:25",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "wwwzhouhui/in_animation": {
+      "first_scan": "2026-06-08 16:01:41",
+      "last_scan": "2026-06-08 16:01:41",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "yuhuiwang0801/TuringPulse": {
+      "first_scan": "2026-06-08 16:01:48",
+      "last_scan": "2026-06-08 16:01:48",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "ladi-da/yt_video": {
+      "first_scan": "2026-06-08 16:02:00",
+      "last_scan": "2026-06-08 16:02:00",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "fastfold-ai/fastfold-pymol-agent": {
+      "first_scan": "2026-06-08 16:02:26",
+      "last_scan": "2026-06-08 16:02:26",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "HazyResearch/minions": {
+      "first_scan": "2026-06-08 16:07:45",
+      "last_scan": "2026-06-08 16:07:45",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "ladi-da/google_keywords": {
+      "first_scan": "2026-06-08 16:07:52",
+      "last_scan": "2026-06-08 16:07:52",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "TheOneTrueGuy/CASI": {
+      "first_scan": "2026-06-08 16:08:04",
+      "last_scan": "2026-06-08 16:08:04",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "e5sub/Open-AutoGLM-GUI": {
+      "first_scan": "2026-06-08 16:14:59",
+      "last_scan": "2026-06-08 16:14:59",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "MakFly/cc-delegator": {
+      "first_scan": "2026-06-08 16:14:59",
+      "last_scan": "2026-06-08 16:14:59",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "hirokidaichi/talk-to-article": {
+      "first_scan": "2026-06-08 16:15:00",
+      "last_scan": "2026-06-08 16:15:00",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "EmaMerca/arcane-registry": {
+      "first_scan": "2026-06-08 16:15:00",
+      "last_scan": "2026-06-08 16:15:00",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "garystafford/streamlit-bedrock-claude-sample": {
+      "first_scan": "2026-06-08 16:15:00",
+      "last_scan": "2026-06-08 16:15:00",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "nzpco/PCO-AI-Classification-of-Legislation": {
+      "first_scan": "2026-06-08 16:15:01",
+      "last_scan": "2026-06-08 16:15:01",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "cikavelja/aws-ml-integration-sample": {
+      "first_scan": "2026-06-08 16:15:01",
+      "last_scan": "2026-06-08 16:15:01",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "pbhogale7/HW": {
+      "first_scan": "2026-06-08 16:15:01",
+      "last_scan": "2026-06-08 16:15:01",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "brilliantlabsAR/noa-assistant": {
+      "first_scan": "2026-06-08 16:15:02",
+      "last_scan": "2026-06-08 16:15:02",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Toulik-Das/get-meeting-minutes": {
+      "first_scan": "2026-06-08 16:15:02",
+      "last_scan": "2026-06-08 16:15:02",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "thamam/autodrive-rag": {
+      "first_scan": "2026-06-08 16:15:02",
+      "last_scan": "2026-06-08 16:15:02",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Ani07-05/RecToHM": {
+      "first_scan": "2026-06-08 16:15:03",
+      "last_scan": "2026-06-08 16:15:03",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "theotorku/proplanOS": {
+      "first_scan": "2026-06-08 16:15:03",
+      "last_scan": "2026-06-08 16:15:03",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "vrgamegirl19/comfyui-vrgamedevgirl": {
+      "first_scan": "2026-06-08 16:15:03",
+      "last_scan": "2026-06-08 16:15:03",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "junidude/medsim": {
+      "first_scan": "2026-06-08 16:15:04",
+      "last_scan": "2026-06-08 16:15:04",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "ctavolazzi/NovaSystem-Codex": {
+      "first_scan": "2026-06-08 16:15:04",
+      "last_scan": "2026-06-08 16:15:04",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "gabrielandrd/ai-packaging-generator": {
+      "first_scan": "2026-06-08 16:15:04",
+      "last_scan": "2026-06-08 16:15:04",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "alexandruakkol/Nowreports_AI": {
+      "first_scan": "2026-06-08 16:15:05",
+      "last_scan": "2026-06-08 16:15:05",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "dwillowtree/diana": {
+      "first_scan": "2026-06-08 16:15:05",
+      "last_scan": "2026-06-08 16:15:05",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "wu-yc/paper2skill": {
+      "first_scan": "2026-06-08 16:15:06",
+      "last_scan": "2026-06-08 16:15:06",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "DaneshjouLab/BiasICL": {
+      "first_scan": "2026-06-08 16:15:06",
+      "last_scan": "2026-06-08 16:15:06",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "apaz-cli/Scripts": {
+      "first_scan": "2026-06-08 16:15:06",
+      "last_scan": "2026-06-08 16:15:06",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Allesterdev/sentinellm": {
+      "first_scan": "2026-06-08 16:15:07",
+      "last_scan": "2026-06-08 16:15:07",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "ujohnny/dkr": {
+      "first_scan": "2026-06-08 16:15:07",
+      "last_scan": "2026-06-08 16:15:07",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 265,
-  "last_updated": "2026-06-08 11:06:37"
+  "total_scanned": 315,
+  "last_updated": "2026-06-08 16:15:07"
 }
