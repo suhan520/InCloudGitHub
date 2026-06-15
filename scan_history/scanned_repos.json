@@ -3429,8 +3429,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "vague7/TalentLens": {
+      "first_scan": "2026-06-15 17:02:18",
+      "last_scan": "2026-06-15 17:02:18",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 490,
-  "last_updated": "2026-06-15 11:51:00"
+  "total_scanned": 491,
+  "last_updated": "2026-06-15 17:02:18"
 }
