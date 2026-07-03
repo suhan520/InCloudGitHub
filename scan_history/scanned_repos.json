@@ -3681,8 +3681,99 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:failed",
       "scan_count": 1
+    },
+    "WaffleCollege/debuggers": {
+      "first_scan": "2026-07-03 02:05:25",
+      "last_scan": "2026-07-03 02:05:25",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "KONF1GG/core-api": {
+      "first_scan": "2026-07-03 02:05:51",
+      "last_scan": "2026-07-03 02:05:51",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Guj2023/sound.sys.ai": {
+      "first_scan": "2026-07-03 02:05:55",
+      "last_scan": "2026-07-03 02:05:55",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Desmond112998/five-guys-summarize-tg-bot": {
+      "first_scan": "2026-07-03 02:06:08",
+      "last_scan": "2026-07-03 02:06:08",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "judywq/VocQGen-streamlit": {
+      "first_scan": "2026-07-03 02:06:55",
+      "last_scan": "2026-07-03 02:06:55",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Germis2021/json-mode": {
+      "first_scan": "2026-07-03 02:06:59",
+      "last_scan": "2026-07-03 02:06:59",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "maxzhang666/AI-Code-Review-Agent": {
+      "first_scan": "2026-07-03 02:11:24",
+      "last_scan": "2026-07-03 02:11:24",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Hoangcunut/Viethoapyvideotrans": {
+      "first_scan": "2026-07-03 02:13:31",
+      "last_scan": "2026-07-03 02:13:31",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "varshith-18/ai-code-review-bot": {
+      "first_scan": "2026-07-03 02:14:55",
+      "last_scan": "2026-07-03 02:14:55",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "WIAM02/Medical-chatbot-AI": {
+      "first_scan": "2026-07-03 02:15:24",
+      "last_scan": "2026-07-03 02:15:24",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "AbdallahSabry7/mini-RAG": {
+      "first_scan": "2026-07-03 02:50:27",
+      "last_scan": "2026-07-03 02:50:27",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "cytwyatt/sim-agent": {
+      "first_scan": "2026-07-03 02:51:13",
+      "last_scan": "2026-07-03 02:51:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "nicodiferd/duck-db-proj": {
+      "first_scan": "2026-07-03 02:52:00",
+      "last_scan": "2026-07-03 02:52:00",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
     }
   },
-  "total_scanned": 526,
-  "last_updated": "2026-07-02 20:04:34"
+  "total_scanned": 539,
+  "last_updated": "2026-07-03 02:52:00"
 }
