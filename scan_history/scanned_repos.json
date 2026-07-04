@@ -4017,8 +4017,22 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "dropiyop/news_for_kamin": {
+      "first_scan": "2026-07-04 08:26:42",
+      "last_scan": "2026-07-04 08:26:42",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "xandral/local-runtime-autofixer": {
+      "first_scan": "2026-07-04 08:27:08",
+      "last_scan": "2026-07-04 08:27:08",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 574,
-  "last_updated": "2026-07-04 06:26:26"
+  "total_scanned": 576,
+  "last_updated": "2026-07-04 08:27:08"
 }
