@@ -4416,8 +4416,169 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "CCCBora/auto-draft": {
+      "first_scan": "2026-07-05 19:05:53",
+      "last_scan": "2026-07-05 19:05:53",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "fureys52-oss/Ankreator": {
+      "first_scan": "2026-07-05 19:06:56",
+      "last_scan": "2026-07-05 19:06:56",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "yashahuja31/coal-mines-carbon-emission-calculator": {
+      "first_scan": "2026-07-05 19:07:55",
+      "last_scan": "2026-07-05 19:07:55",
+      "findings_count": 2,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "venkamita/SpotifyAI": {
+      "first_scan": "2026-07-05 19:08:01",
+      "last_scan": "2026-07-05 19:08:01",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "SagarNRao/hireman": {
+      "first_scan": "2026-07-05 19:08:59",
+      "last_scan": "2026-07-05 19:08:59",
+      "findings_count": 1,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "swaroop-thakare/Intelligent-Image-Processing-using-Object-Detection-and-OCR": {
+      "first_scan": "2026-07-05 19:09:07",
+      "last_scan": "2026-07-05 19:09:07",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "nftblackmagic/flask-langchain": {
+      "first_scan": "2026-07-05 19:09:20",
+      "last_scan": "2026-07-05 19:09:20",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "trungtp1790/health-research-assistant": {
+      "first_scan": "2026-07-05 19:09:48",
+      "last_scan": "2026-07-05 19:09:48",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "halsabbah10/AI-powered-Faculty-Conference-Travel-System": {
+      "first_scan": "2026-07-05 19:11:14",
+      "last_scan": "2026-07-05 19:11:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "justb111/Project-Information-Analysis-Platform": {
+      "first_scan": "2026-07-05 19:12:18",
+      "last_scan": "2026-07-05 19:12:18",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "CLIAI/handy_scripts_CLIAI": {
+      "first_scan": "2026-07-05 19:15:38",
+      "last_scan": "2026-07-05 19:15:38",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "cryptoking000/trading-analytics-tg-bot": {
+      "first_scan": "2026-07-05 19:16:00",
+      "last_scan": "2026-07-05 19:16:00",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "kapayashwanth/asha_sahayi": {
+      "first_scan": "2026-07-05 19:16:12",
+      "last_scan": "2026-07-05 19:16:12",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "KyaniteLabs/Elixis": {
+      "first_scan": "2026-07-05 19:18:43",
+      "last_scan": "2026-07-05 19:18:43",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Tencent/AICGSecEval": {
+      "first_scan": "2026-07-05 19:20:01",
+      "last_scan": "2026-07-05 19:20:01",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "mimo-x/Code-Review-GPT-Gitlab": {
+      "first_scan": "2026-07-05 19:22:34",
+      "last_scan": "2026-07-05 19:22:34",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "MemTensor/skills-vote": {
+      "first_scan": "2026-07-05 19:27:40",
+      "last_scan": "2026-07-05 19:27:40",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "tomascupr/sandstorm": {
+      "first_scan": "2026-07-05 19:32:54",
+      "last_scan": "2026-07-05 19:32:54",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "chainreactors/tinyctfer": {
+      "first_scan": "2026-07-05 19:33:33",
+      "last_scan": "2026-07-05 19:33:33",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Harryoung/efka": {
+      "first_scan": "2026-07-05 19:36:52",
+      "last_scan": "2026-07-05 19:36:52",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "skindhu/claude-deep-wiki": {
+      "first_scan": "2026-07-05 19:37:27",
+      "last_scan": "2026-07-05 19:37:27",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "lonr-6/cc-desktop-switch": {
+      "first_scan": "2026-07-05 19:39:29",
+      "last_scan": "2026-07-05 19:39:29",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "flashinfer-ai/mlsys26-agent-baseline": {
+      "first_scan": "2026-07-05 19:39:52",
+      "last_scan": "2026-07-05 19:39:52",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 631,
-  "last_updated": "2026-07-05 13:56:26"
+  "total_scanned": 654,
+  "last_updated": "2026-07-05 19:39:52"
 }
