@@ -5501,8 +5501,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:failed",
       "scan_count": 1
+    },
+    "0dragg/museum_bot": {
+      "first_scan": "2026-07-13 14:10:02",
+      "last_scan": "2026-07-13 14:10:02",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 786,
-  "last_updated": "2026-07-13 09:40:21"
+  "total_scanned": 787,
+  "last_updated": "2026-07-13 14:10:02"
 }
