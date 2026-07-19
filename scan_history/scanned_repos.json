@@ -5634,8 +5634,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "Dorzzzzz/MiniToolAgent": {
+      "first_scan": "2026-07-19 12:57:46",
+      "last_scan": "2026-07-19 12:57:46",
+      "findings_count": 2,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 805,
-  "last_updated": "2026-07-19 08:03:47"
+  "total_scanned": 806,
+  "last_updated": "2026-07-19 12:57:46"
 }
