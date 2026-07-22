@@ -5697,8 +5697,22 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "Spirit135s/EnglishHelper": {
+      "first_scan": "2026-07-22 18:59:09",
+      "last_scan": "2026-07-22 18:59:09",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "AmaanAnis/Building-Systems-with-the-ChatGPT-API-DL.AI": {
+      "first_scan": "2026-07-22 18:59:20",
+      "last_scan": "2026-07-22 18:59:20",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 814,
-  "last_updated": "2026-07-21 13:48:07"
+  "total_scanned": 816,
+  "last_updated": "2026-07-22 18:59:20"
 }
