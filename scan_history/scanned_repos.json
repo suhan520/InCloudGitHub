@@ -5732,8 +5732,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "liamthura/project-twin": {
+      "first_scan": "2026-07-23 08:16:14",
+      "last_scan": "2026-07-23 08:16:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 819,
-  "last_updated": "2026-07-23 02:02:11"
+  "total_scanned": 820,
+  "last_updated": "2026-07-23 08:16:14"
 }
