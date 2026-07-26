@@ -5746,8 +5746,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "rj-Anurag/Loom": {
+      "first_scan": "2026-07-26 19:01:51",
+      "last_scan": "2026-07-26 19:01:51",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 821,
-  "last_updated": "2026-07-26 13:13:13"
+  "total_scanned": 822,
+  "last_updated": "2026-07-26 19:01:51"
 }
