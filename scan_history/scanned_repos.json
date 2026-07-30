@@ -5795,8 +5795,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "nihalashetty/Forge": {
+      "first_scan": "2026-07-30 19:16:51",
+      "last_scan": "2026-07-30 19:16:51",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 828,
-  "last_updated": "2026-07-29 19:00:35"
+  "total_scanned": 829,
+  "last_updated": "2026-07-30 19:16:51"
 }
