@@ -5802,8 +5802,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "hussainn7/mcp-vision": {
+      "first_scan": "2026-07-31 13:44:20",
+      "last_scan": "2026-07-31 13:44:20",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 829,
-  "last_updated": "2026-07-30 19:16:51"
+  "total_scanned": 830,
+  "last_updated": "2026-07-31 13:44:20"
 }
