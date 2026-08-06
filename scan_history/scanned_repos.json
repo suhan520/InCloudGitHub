@@ -5963,8 +5963,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "SiyuanYan1/Derm1M": {
+      "first_scan": "2026-08-06 13:51:41",
+      "last_scan": "2026-08-06 13:51:41",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 852,
-  "last_updated": "2026-08-05 19:54:12"
+  "total_scanned": 853,
+  "last_updated": "2026-08-06 13:51:41"
 }
