@@ -6369,8 +6369,22 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "MLeidel/CodeScriber": {
+      "first_scan": "2026-08-13 12:49:27",
+      "last_scan": "2026-08-13 12:49:27",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "ba31k/ccost": {
+      "first_scan": "2026-08-13 12:49:46",
+      "last_scan": "2026-08-13 12:49:46",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 910,
-  "last_updated": "2026-08-13 07:15:32"
+  "total_scanned": 912,
+  "last_updated": "2026-08-13 12:49:46"
 }
