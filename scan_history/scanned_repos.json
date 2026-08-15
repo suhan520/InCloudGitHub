@@ -6404,8 +6404,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "fakebizprez/gitrec": {
+      "first_scan": "2026-08-15 18:17:17",
+      "last_scan": "2026-08-15 18:17:17",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 915,
-  "last_updated": "2026-08-15 12:21:17"
+  "total_scanned": 916,
+  "last_updated": "2026-08-15 18:17:17"
 }
