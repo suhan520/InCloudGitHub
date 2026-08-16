@@ -6418,8 +6418,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "NSG-LAB/xyz-ai-backend": {
+      "first_scan": "2026-08-16 12:22:17",
+      "last_scan": "2026-08-16 12:22:17",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 917,
-  "last_updated": "2026-08-16 02:50:16"
+  "total_scanned": 918,
+  "last_updated": "2026-08-16 12:22:17"
 }
