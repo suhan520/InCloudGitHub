@@ -6537,8 +6537,22 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "sportne/llm-tools": {
+      "first_scan": "2026-08-21 06:36:15",
+      "last_scan": "2026-08-21 06:36:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "ameya1198/PersonaSynth": {
+      "first_scan": "2026-08-21 06:36:45",
+      "last_scan": "2026-08-21 06:36:45",
+      "findings_count": 14,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 934,
-  "last_updated": "2026-08-21 03:44:22"
+  "total_scanned": 936,
+  "last_updated": "2026-08-21 06:36:45"
 }
