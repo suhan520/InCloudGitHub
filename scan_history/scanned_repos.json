@@ -6572,8 +6572,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "neuralguy/necli": {
+      "first_scan": "2026-08-22 18:20:36",
+      "last_scan": "2026-08-22 18:20:36",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 939,
-  "last_updated": "2026-08-22 12:25:57"
+  "total_scanned": 940,
+  "last_updated": "2026-08-22 18:20:36"
 }
