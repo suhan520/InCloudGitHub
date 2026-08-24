@@ -6593,8 +6593,15 @@
       "findings_count": 1,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "NiniMerabishvili/model-quality-floor": {
+      "first_scan": "2026-08-24 18:27:41",
+      "last_scan": "2026-08-24 18:27:41",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 942,
-  "last_updated": "2026-08-23 18:31:40"
+  "total_scanned": 943,
+  "last_updated": "2026-08-24 18:27:41"
 }
