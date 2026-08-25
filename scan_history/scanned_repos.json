@@ -6978,8 +6978,43 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "KGRddhs/smartcompare-backend": {
+      "first_scan": "2026-08-25 18:52:29",
+      "last_scan": "2026-08-25 18:52:29",
+      "findings_count": 2,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "rodneysilva/rag-llama": {
+      "first_scan": "2026-08-25 18:55:08",
+      "last_scan": "2026-08-25 18:55:08",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Social-RV/comparative-judging": {
+      "first_scan": "2026-08-25 18:55:40",
+      "last_scan": "2026-08-25 18:55:40",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "SuperagenticAI/codeoptix": {
+      "first_scan": "2026-08-25 18:58:43",
+      "last_scan": "2026-08-25 18:58:43",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "sondecode/temvision": {
+      "first_scan": "2026-08-25 19:00:22",
+      "last_scan": "2026-08-25 19:00:22",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 997,
-  "last_updated": "2026-08-25 13:18:23"
+  "total_scanned": 1002,
+  "last_updated": "2026-08-25 19:00:22"
 }
