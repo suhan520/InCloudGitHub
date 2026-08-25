@@ -6628,8 +6628,358 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:failed",
       "scan_count": 1
+    },
+    "Shubhamsaboo/awesome-llm-apps": {
+      "first_scan": "2026-08-25 12:56:37",
+      "last_scan": "2026-08-25 12:56:37",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
+    },
+    "vllm-project/vllm": {
+      "first_scan": "2026-08-25 13:18:09",
+      "last_scan": "2026-08-25 13:18:09",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Alishahryar1/free-claude-code": {
+      "first_scan": "2026-08-25 13:18:09",
+      "last_scan": "2026-08-25 13:18:09",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "ClickHouse/ClickHouse": {
+      "first_scan": "2026-08-25 13:18:09",
+      "last_scan": "2026-08-25 13:18:09",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "open-webui/open-webui": {
+      "first_scan": "2026-08-25 13:18:10",
+      "last_scan": "2026-08-25 13:18:10",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "exo-explore/exo": {
+      "first_scan": "2026-08-25 13:18:10",
+      "last_scan": "2026-08-25 13:18:10",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "HKUDS/DeepTutor": {
+      "first_scan": "2026-08-25 13:18:10",
+      "last_scan": "2026-08-25 13:18:10",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "microsoft/generative-ai-for-beginners": {
+      "first_scan": "2026-08-25 13:18:11",
+      "last_scan": "2026-08-25 13:18:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "odysseus-dev/odysseus": {
+      "first_scan": "2026-08-25 13:18:11",
+      "last_scan": "2026-08-25 13:18:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "harry0703/MoneyPrinterTurbo": {
+      "first_scan": "2026-08-25 13:18:11",
+      "last_scan": "2026-08-25 13:18:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "NousResearch/hermes-agent": {
+      "first_scan": "2026-08-25 13:18:11",
+      "last_scan": "2026-08-25 13:18:11",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "home-assistant/core": {
+      "first_scan": "2026-08-25 13:18:12",
+      "last_scan": "2026-08-25 13:18:12",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "xtekky/gpt4free": {
+      "first_scan": "2026-08-25 13:18:12",
+      "last_scan": "2026-08-25 13:18:12",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "usestrix/strix": {
+      "first_scan": "2026-08-25 13:18:12",
+      "last_scan": "2026-08-25 13:18:12",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "crewAIInc/crewAI": {
+      "first_scan": "2026-08-25 13:18:13",
+      "last_scan": "2026-08-25 13:18:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Aider-AI/aider": {
+      "first_scan": "2026-08-25 13:18:13",
+      "last_scan": "2026-08-25 13:18:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Panniantong/Agent-Reach": {
+      "first_scan": "2026-08-25 13:18:13",
+      "last_scan": "2026-08-25 13:18:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "mem0ai/mem0": {
+      "first_scan": "2026-08-25 13:18:13",
+      "last_scan": "2026-08-25 13:18:13",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "calesthio/OpenMontage": {
+      "first_scan": "2026-08-25 13:18:14",
+      "last_scan": "2026-08-25 13:18:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "BerriAI/litellm": {
+      "first_scan": "2026-08-25 13:18:14",
+      "last_scan": "2026-08-25 13:18:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "openai/openai-agents-python": {
+      "first_scan": "2026-08-25 13:18:14",
+      "last_scan": "2026-08-25 13:18:14",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "cameronjoejones/streamlit-gpt-data-assistant": {
+      "first_scan": "2026-08-25 13:18:15",
+      "last_scan": "2026-08-25 13:18:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "headroomlabs-ai/headroom": {
+      "first_scan": "2026-08-25 13:18:15",
+      "last_scan": "2026-08-25 13:18:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "agno-agi/agno": {
+      "first_scan": "2026-08-25 13:18:15",
+      "last_scan": "2026-08-25 13:18:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "mlflow/mlflow": {
+      "first_scan": "2026-08-25 13:18:16",
+      "last_scan": "2026-08-25 13:18:16",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "stanfordnlp/dspy": {
+      "first_scan": "2026-08-25 13:18:16",
+      "last_scan": "2026-08-25 13:18:16",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Water008/MiMo2API": {
+      "first_scan": "2026-08-25 13:18:16",
+      "last_scan": "2026-08-25 13:18:16",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "HKUDS/nanobot": {
+      "first_scan": "2026-08-25 13:18:16",
+      "last_scan": "2026-08-25 13:18:16",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "langchain-ai/langchain": {
+      "first_scan": "2026-08-25 13:18:17",
+      "last_scan": "2026-08-25 13:18:17",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "bytedance/deer-flow": {
+      "first_scan": "2026-08-25 13:18:17",
+      "last_scan": "2026-08-25 13:18:17",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "browser-use/browser-use-rsi": {
+      "first_scan": "2026-08-25 13:18:17",
+      "last_scan": "2026-08-25 13:18:17",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "PYBu/ArtiChat": {
+      "first_scan": "2026-08-25 13:18:18",
+      "last_scan": "2026-08-25 13:18:18",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Kentucky-Open-Science/free-claude-code": {
+      "first_scan": "2026-08-25 13:18:18",
+      "last_scan": "2026-08-25 13:18:18",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "leecyang/free-claude-code-proxy": {
+      "first_scan": "2026-08-25 13:18:18",
+      "last_scan": "2026-08-25 13:18:18",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "ferro269/awesome-llm-apps-IMPORT-": {
+      "first_scan": "2026-08-25 13:18:18",
+      "last_scan": "2026-08-25 13:18:18",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "utpalmv/awesome-llm-apps": {
+      "first_scan": "2026-08-25 13:18:19",
+      "last_scan": "2026-08-25 13:18:19",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "moirai-internal/vllm": {
+      "first_scan": "2026-08-25 13:18:19",
+      "last_scan": "2026-08-25 13:18:19",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "SpaceshipCreative/vllm-b12x-upstream-integration": {
+      "first_scan": "2026-08-25 13:18:19",
+      "last_scan": "2026-08-25 13:18:19",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "odysseus-dev/odysseus-current": {
+      "first_scan": "2026-08-25 13:18:20",
+      "last_scan": "2026-08-25 13:18:20",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "abhilashiig/exo": {
+      "first_scan": "2026-08-25 13:18:20",
+      "last_scan": "2026-08-25 13:18:20",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "tangtn/Web-Ui": {
+      "first_scan": "2026-08-25 13:18:20",
+      "last_scan": "2026-08-25 13:18:20",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "chocLami/open-webui": {
+      "first_scan": "2026-08-25 13:18:21",
+      "last_scan": "2026-08-25 13:18:21",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "tomwolf22/alyx-open-webui": {
+      "first_scan": "2026-08-25 13:18:21",
+      "last_scan": "2026-08-25 13:18:21",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Pant0x/odysseus-windows-app": {
+      "first_scan": "2026-08-25 13:18:21",
+      "last_scan": "2026-08-25 13:18:21",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Mocchibird/odysseus": {
+      "first_scan": "2026-08-25 13:18:21",
+      "last_scan": "2026-08-25 13:18:21",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "d674421-beep/odysseus": {
+      "first_scan": "2026-08-25 13:18:22",
+      "last_scan": "2026-08-25 13:18:22",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "LiamVisionary/hivemind-content-studio": {
+      "first_scan": "2026-08-25 13:18:22",
+      "last_scan": "2026-08-25 13:18:22",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "derekcheungsa/MoneyPrinterTurbo": {
+      "first_scan": "2026-08-25 13:18:22",
+      "last_scan": "2026-08-25 13:18:22",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "scjorge1908-cyber/mkt-hope": {
+      "first_scan": "2026-08-25 13:18:23",
+      "last_scan": "2026-08-25 13:18:23",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "SlowGreek/costas-code": {
+      "first_scan": "2026-08-25 13:18:23",
+      "last_scan": "2026-08-25 13:18:23",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 947,
-  "last_updated": "2026-08-25 06:58:00"
+  "total_scanned": 997,
+  "last_updated": "2026-08-25 13:18:23"
 }
