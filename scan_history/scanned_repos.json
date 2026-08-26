@@ -7013,8 +7013,36 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "aevrin-projects/aevrin-mcp-scanner": {
+      "first_scan": "2026-08-26 19:50:29",
+      "last_scan": "2026-08-26 19:50:29",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "progh2/catmoa": {
+      "first_scan": "2026-08-26 19:51:23",
+      "last_scan": "2026-08-26 19:51:23",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "gilpingrowthsolutions-ux/finance_assistant_rung": {
+      "first_scan": "2026-08-26 19:54:57",
+      "last_scan": "2026-08-26 19:54:57",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "wubin1836/ai-hive-agent-skills": {
+      "first_scan": "2026-08-26 20:28:34",
+      "last_scan": "2026-08-26 20:28:34",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1002,
-  "last_updated": "2026-08-25 19:00:22"
+  "total_scanned": 1006,
+  "last_updated": "2026-08-26 20:28:34"
 }
